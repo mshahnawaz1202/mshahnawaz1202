@@ -6,45 +6,21 @@
 <h1 align="center"><b>C | C++ | Python | Java Developer</b></h1>
 
 
-## 🌟 About Me
-
-I’m a **Software Engineering student** passionate about **building software** and **designing digital experiences**.
-I enjoy coding, UI/UX design, and exploring **AI & Machine Learning**.
-
-* 🔹 **Top Skills:** C++, C, Python, HTML, CSS, Java, MySQL, Figma
-* 🔹 **Currently Learning:** Machine Learning, Data Science
-* 🔹 **Love:** Building creative projects, dashboards, and interactive UIs
 
 
-
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-
-</p>
-
-<p align="center">
-
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-
-</p>
-
-<p align="center">
-
-<a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-<a href="#"><img alt="AI" src="https://img.shields.io/badge/AI-Data%20Science-blue?style=for-the-badge&logo=opencv&logoColor=white" /></a>
-
-</p>
+# 💫 About Me:
+I’m a Software Engineering student passionate about building software and designing digital experiences. I enjoy coding, UI/UX design, and exploring AI & Machine Learning.<br><br>🔹 Top Skills: C++, C, Python, HTML, CSS, Java, MySQL, Figma<br>🔹 Currently Learning: Machine Learning, Data Science<br>🔹 Love: Building creative projects, dashboards, and interactive UIs
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.shahnawaz_1202) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-shah-nawaz-491701340) 
+
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mshahnawaz1202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔥 Featured Projects
 
@@ -96,14 +72,20 @@ I enjoy coding, UI/UX design, and exploring **AI & Machine Learning**.
 
 
 
-## 📫 Connect with Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-shah-nawaz-491701340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/swz_1202/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/swz-ultra-1202"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:shahnawaz.swz1202@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=mshahnawaz1202&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
 
 
 
