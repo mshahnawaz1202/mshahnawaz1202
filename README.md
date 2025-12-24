@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&width=600&lines=Software+Engineering+Student;C%2B%2B+%7C+Python+Developer;Frontend+%7C+Backend+Developer;Aspiring+ML+%26+Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
 </p> -->
-<h1 align="center"><b>C | C++ | Python | Java Developer</b></h1>
+<h1 align="center"><b>C++ | Python | Java Developer</b></h1>
 
 
 
