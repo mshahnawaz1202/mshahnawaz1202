@@ -64,12 +64,12 @@
 
 | | Project | Stack | |
 |:-:|:--------|:------|:-:|
-| 📱 | **Mini Instagram** | `Kotlin` `Firebase` | [View →](https://github.com/mshahnawaz1202/Mini-Instagram) |
+| 📱 | **Mini Instagram** | `C++`  | [View →](https://github.com/mshahnawaz1202/Mini-Instagram) |
 | 📊 | **AI Analysis Dashboard** | `Python` `Streamlit` `Scikit-Learn` | [View →](https://github.com/mshahnawaz1202/-AI-Data-Analysis-Prediction-Dashboard) |
 | 🖥️ | **Mini Operating System** | `C++` `Batch` | [View →](https://github.com/mshahnawaz1202/Mini-Operating-System) |
 | 🤖 | **Jarvis AI Assistant** | `Python` `SpeechRecognition` | [View →](https://github.com/mshahnawaz1202/Jarvis) |
 | 🧪 | **TestOps Framework** | `Python` `Selenium` | [View →](https://github.com/mshahnawaz1202/TestOps-andAutomation-Framework) |
-| 📜 | **Arabic Poetry Manager** | `Python` `MySQL` | [View →](https://github.com/mshahnawaz1202/Arabic-Poetry-Management-System) |
+| 📜 | **Arabic Poetry Manager** | `Java` `FXML` `MySQL` | [View →](https://github.com/mshahnawaz1202/Arabic-Poetry-Management-System) |
 | 🎲 | **Ludo Gold** | `Python` `Pygame` | [View →](https://github.com/mshahnawaz1202/Ludo-Gmae-In-Python) |
 
 </div>
