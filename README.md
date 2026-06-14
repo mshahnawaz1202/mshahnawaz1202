@@ -18,7 +18,7 @@
 
 ## 🧭 About
 
-I design before I code, and I build software meant to be maintained, not just shipped. **Python** is my primary tool for data-driven work — analysis, automation, and machine learning — alongside **native Android development with Kotlin & Jetpack Compose** and **systems programming in C++**, all grounded in clean architecture and SOLID design.
+I design before I code, and I build software meant to be maintained, not just shipped. **Python** is my primary tool for data-driven work   analysis, automation, and machine learning   alongside **native Android development with Kotlin & Jetpack Compose** and **systems programming in C++**, all grounded in clean architecture and SOLID design.
 
 <br>
 
@@ -135,7 +135,7 @@ Full property booking platform built with auth, listings & bookings, and a hybri
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Implements process handling, memory management, and command execution — built to understand what's beneath the frameworks.
+Implements process handling, memory management, and command execution   built to understand what's beneath the frameworks.
 
 [View →](https://github.com/mshahnawaz1202/Mini-Operating-System)
 
@@ -163,7 +163,7 @@ A desktop app for managing poetry collections, structured around proven design p
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-Reusable functional & UI testing framework that catches regressions early — quality built into the process, not bolted on.
+Reusable functional & UI testing framework that catches regressions early   quality built into the process, not bolted on.
 
 [View →](https://github.com/mshahnawaz1202/TestOps-andAutomation-Framework)
 
@@ -189,9 +189,9 @@ A core social-media engine built around custom data structures for feeds, users,
 
 | Principle | Approach |
 |:--|:--|
-| 🏗️ **Design First** | Architecture before implementation — fewer rewrites, clearer structure |
+| 🏗️ **Design First** | Architecture before implementation   fewer rewrites, clearer structure |
 | 🧩 **SOLID by Default** | Single-responsibility, well-defined interfaces, easy to extend |
-| 📈 **Scalable by Design** | Built for growth in data, users, and features — not just the first test case |
+| 📈 **Scalable by Design** | Built for growth in data, users, and features   not just the first test case |
 | 🔍 **Maintainable > Clever** | Code optimized for the next reader, including future me |
 | ⚙️ **Intentional Performance** | Efficient where it counts, without over-engineering |
 | 🎨 **UX is Engineering** | A correct system that's frustrating to use isn't finished |
