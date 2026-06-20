@@ -4,7 +4,7 @@
 
 ### Software Engineer · Systems & Mobile Development · AI/ML
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2EA3F2&center=true&vCenter=true&width=640&lines=Building+scalable%2C+well-architected+software;Python+%2B+Data+Science+%2B+Machine+Learning;Kotlin+%2B+Jetpack+Compose+%2B+Firebase;Clean+Code.+Solid+Design.+Real+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2EA3F2&center=true&vCenter=true&width=640&lines=Building+scalable%2C+well-architected+software;Python+%2B+Data+Science+%2B+Machine+Learning;Kotlin+%2B+Firebase;Clean+Code.+Solid+Design.+Real+Systems.)](https://git.io/typing-svg)
 
 📍 Chiniot, Pakistan &nbsp;|&nbsp; 🎓 BS Software Engineering, FAST-NUCES
 
