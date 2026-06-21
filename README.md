@@ -198,20 +198,43 @@ A core social-media engine built around custom data structures for feeds, users,
 
 <br>
 
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA3F2&icon_color=2EA3F2&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true&background=0D1117&stroke=2EA3F2&ring=2EA3F2&fire=2EA3F2&currStreakLabel=2EA3F2" height="165" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EA3F2&text_color=c9d1d9" height="165" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
 
 </div>
 
 <br>
 
 <div align="center">
+
+### 🚀 Contributions, Clean Architecture & Real-World Software Engineering
+
+</div>
+
 
 ### 📬 Open to internships, collaborations & engineering conversations
 
