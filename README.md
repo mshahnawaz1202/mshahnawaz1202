@@ -206,7 +206,11 @@ A core social-media engine built around custom data structures for feeds, users,
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mshahnawaz1202&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+<br>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
