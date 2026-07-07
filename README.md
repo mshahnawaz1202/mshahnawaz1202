@@ -204,7 +204,20 @@ A core social-media engine built around custom data structures for feeds, users,
 [![Muhammad Shah Nawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mshahnawaz1202&theme=tokyo-night)](https://github.com/mshahnawaz1202)
 ---
 
-https://streak-stats.demolab.com?user=mshahnawaz1202&theme=tokyonight&hide_border=true
+## 📈 GitHub Analytics
+
+<div align="center">
+
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true" />
+<br><br>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+---
 
 ### 💻 Most Used Languages
 
