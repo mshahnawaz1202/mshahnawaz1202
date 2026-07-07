@@ -1,252 +1,263 @@
 <div align="center">
 
-# Muhammad Shah Nawaz
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO BANNER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Software Engineer · Systems & Mobile Development · AI/ML
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=2EA3F2&center=true&vCenter=true&width=640&lines=Building+scalable%2C+well-architected+software;Python+%2B+Data+Science+%2B+Machine+Learning;Kotlin+%2B+Firebase;Clean+Code.+Solid+Design.+Real+Systems.)](https://git.io/typing-svg)
-
-📍 Chiniot, Pakistan &nbsp;|&nbsp; 🎓 BS Software Engineering, FAST-NUCES
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shah-nawaz-491701340)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mshahnawaz1202)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnawaz.swz1202@gmail.com)
+<img src="./assets/hero-banner.svg" width="100%" alt="Muhammad Shah Nawaz - Software Engineer Hero Banner"/>
 
 </div>
 
 <br>
 
-## 🧭 About
-
-I design before I code, and I build software meant to be maintained, not just shipped. **Python** is my primary tool for data-driven work   analysis, automation, and machine learning   alongside **native Android development with Kotlin & Jetpack Compose** and **systems programming in C++**, all grounded in clean architecture and SOLID design.
-
-<br>
-
-## 🎯 Currently
-
-| | |
-|:--|:--|
-| 🐍 | Sharpening **Python-based ML & data analysis** through real-world projects |
-| 📚 | Deepening expertise in **software architecture & design patterns** |
-| 🏗️ | Exploring **Android architecture patterns** (MVVM, Clean Architecture) |
-| 🧪 | Embedding **automated testing** into every project with Selenium |
-
-<br>
-
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     QUICK CONNECT                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Mobile Development**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI & Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Backend & Web**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Engineering Practices**
-
-![OOP](https://img.shields.io/badge/OOP-2D2D2D?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-2D2D2D?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-2D2D2D?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2D2D2D?style=for-the-badge)
-![Software Testing](https://img.shields.io/badge/Software%20Testing-2D2D2D?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-2D2D2D?style=for-the-badge)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/%5B_LINKEDIN_%5D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a)](https://linkedin.com/in/muhammad-shah-nawaz-491701340)&nbsp;
+[![GitHub](https://img.shields.io/badge/%5B_GITHUB_%5D-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a1a)](https://github.com/mshahnawaz1202)&nbsp;
+[![Gmail](https://img.shields.io/badge/%5B_CONTACT_%5D-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:shahnawaz.swz1202@gmail.com)
 
 </div>
 
 <br>
 
-## 🚀 Featured Projects
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT / STORY                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 📊 AI Data Analysis Dashboard
-**Lightweight Power BI alternative**
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM LOG :: ENGINEER PROFILE                         STATUS: ACTIVE  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  > I design before I code. Architecture before implementation.           ║
+║  > Most engineers build software. I build software that lasts.           ║
+║  > SOLID by default. Scalable by design. Maintained with intent.         ║
+║                                                                          ║
+║  PRIMARY:   Python — ML, data analysis, automation                       ║
+║  MOBILE:    Kotlin + Jetpack Compose — native Android, Firebase          ║
+║  SYSTEMS:   C++ — clean architecture, memory, processes                  ║
+║  TESTING:   Selenium — quality built in, not bolted on                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CURRENTLY BUILDING                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>⚡ &nbsp; CURRENT MISSION LOGS &nbsp; ⚡</b></summary>
+
+<br>
+
+| `STATUS` | `MISSION` | `DOMAIN` |
+|:---:|:---|:---:|
+| 🟢 `ACTIVE` | Sharpening Python-based ML & data analysis through real-world projects | `AI / DATA` |
+| 🟢 `ACTIVE` | Deepening expertise in software architecture & design patterns | `ARCHITECTURE` |
+| 🔵 `ONGOING` | Exploring Android architecture patterns — MVVM, Clean Architecture | `MOBILE` |
+| 🔵 `ONGOING` | Embedding automated testing into every project with Selenium | `QUALITY` |
+
+</details>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH DOMAIN CARDS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> TECHNOLOGY DOMAINS`
+
+<img src="./assets/tech-domains.svg" width="100%" alt="Tech Stack Domain Cards"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   DETAILED TECH STACK                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>🛠️ &nbsp; FULL ARSENAL — EXPAND STACK &nbsp; 🛠️</b></summary>
+
+<br>
+
+<div align="center">
+
+**`// LANGUAGES //`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**`// ANDROID & MOBILE //`**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room_DB-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**`// AI & DATA SCIENCE //`**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-End-to-end pipeline from raw data to cleaning, visualization, and model-based prediction in an interactive UI.
+**`// BACKEND & WEB //`**
 
-[View →](https://github.com/mshahnawaz1202/-AI-Data-Analysis-Prediction-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 StayFree
-**Airbnb-style booking app**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-Full property booking platform built with auth, listings & bookings, and a hybrid local/cloud data layer for offline-ready performance.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Mini Operating System
-**Core OS concepts from scratch**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-Implements process handling, memory management, and command execution   built to understand what's beneath the frameworks.
-
-[View →](https://github.com/mshahnawaz1202/Mini-Operating-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Arabic Poetry Management System
-**OOP & design patterns in practice**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-A desktop app for managing poetry collections, structured around proven design patterns with a MySQL-backed data layer.
-
-[View →](https://github.com/mshahnawaz1202/Arabic-Poetry-Management-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 TestOps
-**Automated testing framework**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-Reusable functional & UI testing framework that catches regressions early   quality built into the process, not bolted on.
+**`// TOOLS & WORKFLOW //`**
 
-[View →](https://github.com/mshahnawaz1202/TestOps-andAutomation-Framework)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+**`// ENGINEERING CRAFT //`**
 
-### 📱 Mini Instagram
-**Data structures in action**
+![OOP](https://img.shields.io/badge/OOP-1a1a3e?style=flat-square&logoColor=00d4ff)
+![SOLID](https://img.shields.io/badge/SOLID-1a1a3e?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-1a1a3e?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a3e?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-1a1a3e?style=flat-square)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+</div>
 
-A core social-media engine built around custom data structures for feeds, users, and interactions.
-
-[View →](https://github.com/mshahnawaz1202/Mini-Instagram)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ⚡ Engineering Philosophy
-
-| Principle | Approach |
-|:--|:--|
-| 🏗️ **Design First** | Architecture before implementation   fewer rewrites, clearer structure |
-| 🧩 **SOLID by Default** | Single-responsibility, well-defined interfaces, easy to extend |
-| 📈 **Scalable by Design** | Built for growth in data, users, and features   not just the first test case |
-| 🔍 **Maintainable > Clever** | Code optimized for the next reader, including future me |
-| ⚙️ **Intentional Performance** | Efficient where it counts, without over-engineering |
-| 🎨 **UX is Engineering** | A correct system that's frustrating to use isn't finished |
+</details>
 
 <br>
 
-
-## 📈 Contribution Graph
-
-[![Muhammad Shah Nawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mshahnawaz1202&theme=tokyo-night)](https://github.com/mshahnawaz1202)
 ---
 
-## 📈 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+### `> FEATURED PROJECTS`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="./assets/projects.svg" width="100%" alt="Featured Projects Terminal Cards"/>
 
+</div>
 
+<br>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true" />
+<!-- project detail links row -->
+<div align="center">
+
+[![AI Dashboard](https://img.shields.io/badge/📊_AI_DASHBOARD-→_VIEW_REPO-00d4ff?style=for-the-badge&labelColor=000d1a)](https://github.com/mshahnawaz1202/-AI-Data-Analysis-Prediction-Dashboard)&nbsp;
+[![Mini OS](https://img.shields.io/badge/🖥️_MINI_OS-→_VIEW_REPO-00ffcc?style=for-the-badge&labelColor=001510)](https://github.com/mshahnawaz1202/Mini-Operating-System)&nbsp;
+[![Arabic Poetry](https://img.shields.io/badge/📜_ARABIC_POETRY-→_VIEW_REPO-ffe066?style=for-the-badge&labelColor=100c00)](https://github.com/mshahnawaz1202/Arabic-Poetry-Management-System)
+
+[![TestOps](https://img.shields.io/badge/🧪_TESTOPS-→_VIEW_REPO-ff3399?style=for-the-badge&labelColor=120008)](https://github.com/mshahnawaz1202/TestOps-andAutomation-Framework)&nbsp;
+[![Mini Instagram](https://img.shields.io/badge/📱_MINI_INSTAGRAM-→_VIEW_REPO-00ffcc?style=for-the-badge&labelColor=000e06)](https://github.com/mshahnawaz1202/Mini-Instagram)
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 ENGINEERING PHILOSOPHY                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> ENGINEERING PHILOSOPHY`
+
+<img src="./assets/philosophy.svg" width="100%" alt="Engineering Philosophy Cards"/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB ANALYTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `> SYSTEM ANALYTICS`
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=07071a&title_color=00d4ff&icon_color=7b2fff&text_color=8892a4&border_color=1a1a3e" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahnawaz1202&theme=tokyonight&hide_border=true&background=07071a&ring=7b2fff&fire=00d4ff&currStreakLabel=00ffcc&sideLabels=8892a4&dates=4a5568&currStreakNum=ffffff&sideNums=ffffff" />
+
 <br><br>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
----
 
-### 💻 Most Used Languages
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=07071a&title_color=00d4ff&text_color=8892a4" />
 
-<div align="center">
+<br><br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mshahnawaz1202&theme=tokyo-night&bg_color=07071a&color=00d4ff&line=7b2fff&point=00ffcc&area=true&hide_border=true)](https://github.com/mshahnawaz1202)
 
 </div>
 
 <br>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTACT / FOOTER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  TRANSMISSION CHANNEL                              ENCRYPTION: ENABLED  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  📡  OPEN TO: Internships · Collaborations · Engineering conversations   ║
+║                                                                          ║
+║  ✉️   shahnawaz.swz1202@gmail.com                                        ║
+║  🔗  linkedin.com/in/muhammad-shah-nawaz-491701340                       ║
+║  💻  github.com/mshahnawaz1202                                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-### 🚀 Contributions, Clean Architecture & Real-World Software Engineering
+<br>
 
-</div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mshahnawaz1202&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a)](https://linkedin.com/in/muhammad-shah-nawaz-491701340)&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a1a)](https://github.com/mshahnawaz1202)&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:shahnawaz.swz1202@gmail.com)
 
-### 📬 Open to internships, collaborations & engineering conversations
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shah-nawaz-491701340)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mshahnawaz1202)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnawaz.swz1202@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mshahnawaz1202&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge&labelColor=0a0a1a)
+
+<br>
+
+```
+// END OF PROFILE TRANSMISSION //
+```
 
 </div>

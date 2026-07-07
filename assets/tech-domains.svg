@@ -1,0 +1,148 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Stack Domains">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#080816;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d0d28;stop-opacity:1"/>
+    </linearGradient>
+    <!-- Card gradients -->
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001a2e;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#000d1a;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#150030;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0a0020;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001a20;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00100f;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0d00;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#100800;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#0066ff"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7b2fff"/>
+      <stop offset="100%" style="stop-color:#c044ff"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffcc"/>
+      <stop offset="100%" style="stop-color:#00aa88"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b35"/>
+      <stop offset="100%" style="stop-color:#ff3300"/>
+    </linearGradient>
+    <filter id="cardGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect width="900" height="220" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+
+    <!-- Title -->
+    <text x="450" y="28" font-family="'Courier New', monospace" font-size="11" fill="#4a5568" text-anchor="middle" letter-spacing="4">// TECHNOLOGY DOMAINS //</text>
+
+    <!-- === CARD 1: Python / AI / Data === -->
+    <g transform="translate(18, 44)">
+      <rect width="200" height="158" rx="8" fill="url(#card1)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.5"/>
+      <!-- Top accent bar -->
+      <rect width="200" height="3" rx="1" fill="url(#bar1)" opacity="0.9"/>
+      <!-- Icon area -->
+      <text x="100" y="36" font-family="monospace" font-size="22" text-anchor="middle">🐍</text>
+      <!-- Domain label -->
+      <text x="100" y="58" font-family="'Courier New', monospace" font-size="11" fill="#00d4ff" text-anchor="middle" letter-spacing="2">AI &amp; DATA</text>
+      <!-- Skills -->
+      <text x="14" y="80" font-family="'Courier New', monospace" font-size="9.5" fill="#6b8fa8">Python · NumPy · Pandas</text>
+      <text x="14" y="95" font-family="'Courier New', monospace" font-size="9.5" fill="#6b8fa8">scikit-learn · Streamlit</text>
+      <!-- Proficiency bars -->
+      <text x="14" y="115" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Python</text>
+      <rect x="14" y="118" width="158" height="4" rx="2" fill="#0a1520"/>
+      <rect x="14" y="118" width="150" height="4" rx="2" fill="url(#bar1)">
+        <animate attributeName="width" from="0" to="150" dur="1.8s" fill="freeze"/>
+      </rect>
+      <text x="14" y="136" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">ML/Data</text>
+      <rect x="14" y="139" width="158" height="4" rx="2" fill="#0a1520"/>
+      <rect x="14" y="139" width="118" height="4" rx="2" fill="url(#bar1)" opacity="0.7">
+        <animate attributeName="width" from="0" to="118" dur="2.1s" fill="freeze"/>
+      </rect>
+      <!-- Corner marker -->
+      <text x="178" y="155" font-family="'Courier New', monospace" font-size="8" fill="#00d4ff" opacity="0.4">01</text>
+    </g>
+
+    <!-- === CARD 2: Android / Mobile === -->
+    <g transform="translate(234, 44)">
+      <rect width="200" height="158" rx="8" fill="url(#card2)" stroke="#7b2fff" stroke-width="1" stroke-opacity="0.5"/>
+      <rect width="200" height="3" rx="1" fill="url(#bar2)" opacity="0.9"/>
+      <text x="100" y="36" font-family="monospace" font-size="22" text-anchor="middle">📱</text>
+      <text x="100" y="58" font-family="'Courier New', monospace" font-size="11" fill="#7b2fff" text-anchor="middle" letter-spacing="2">ANDROID</text>
+      <text x="14" y="80" font-family="'Courier New', monospace" font-size="9.5" fill="#8a6fb0">Kotlin · Jetpack Compose</text>
+      <text x="14" y="95" font-family="'Courier New', monospace" font-size="9.5" fill="#8a6fb0">Firebase · Room · MVVM</text>
+      <text x="14" y="115" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Kotlin</text>
+      <rect x="14" y="118" width="158" height="4" rx="2" fill="#0a0520"/>
+      <rect x="14" y="118" width="140" height="4" rx="2" fill="url(#bar2)">
+        <animate attributeName="width" from="0" to="140" dur="1.9s" fill="freeze"/>
+      </rect>
+      <text x="14" y="136" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Compose</text>
+      <rect x="14" y="139" width="158" height="4" rx="2" fill="#0a0520"/>
+      <rect x="14" y="139" width="110" height="4" rx="2" fill="url(#bar2)" opacity="0.7">
+        <animate attributeName="width" from="0" to="110" dur="2.3s" fill="freeze"/>
+      </rect>
+      <text x="178" y="155" font-family="'Courier New', monospace" font-size="8" fill="#7b2fff" opacity="0.4">02</text>
+    </g>
+
+    <!-- === CARD 3: Systems / C++ === -->
+    <g transform="translate(450, 44)">
+      <rect width="200" height="158" rx="8" fill="url(#card3)" stroke="#00ffcc" stroke-width="1" stroke-opacity="0.5"/>
+      <rect width="200" height="3" rx="1" fill="url(#bar3)" opacity="0.9"/>
+      <text x="100" y="36" font-family="monospace" font-size="22" text-anchor="middle">⚙️</text>
+      <text x="100" y="58" font-family="'Courier New', monospace" font-size="11" fill="#00ffcc" text-anchor="middle" letter-spacing="2">SYSTEMS</text>
+      <text x="14" y="80" font-family="'Courier New', monospace" font-size="9.5" fill="#4a9a88">C++ · C · Linux · Bash</text>
+      <text x="14" y="95" font-family="'Courier New', monospace" font-size="9.5" fill="#4a9a88">OOP · SOLID · Patterns</text>
+      <text x="14" y="115" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">C++</text>
+      <rect x="14" y="118" width="158" height="4" rx="2" fill="#001510"/>
+      <rect x="14" y="118" width="138" height="4" rx="2" fill="url(#bar3)">
+        <animate attributeName="width" from="0" to="138" dur="2s" fill="freeze"/>
+      </rect>
+      <text x="14" y="136" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Architecture</text>
+      <rect x="14" y="139" width="158" height="4" rx="2" fill="#001510"/>
+      <rect x="14" y="139" width="128" height="4" rx="2" fill="url(#bar3)" opacity="0.7">
+        <animate attributeName="width" from="0" to="128" dur="2.4s" fill="freeze"/>
+      </rect>
+      <text x="178" y="155" font-family="'Courier New', monospace" font-size="8" fill="#00ffcc" opacity="0.4">03</text>
+    </g>
+
+    <!-- === CARD 4: Web / Backend === -->
+    <g transform="translate(666, 44)">
+      <rect width="216" height="158" rx="8" fill="url(#card4)" stroke="#ff8c42" stroke-width="1" stroke-opacity="0.5"/>
+      <rect width="216" height="3" rx="1" fill="url(#bar4)" opacity="0.9"/>
+      <text x="108" y="36" font-family="monospace" font-size="22" text-anchor="middle">🌐</text>
+      <text x="108" y="58" font-family="'Courier New', monospace" font-size="11" fill="#ff8c42" text-anchor="middle" letter-spacing="2">WEB &amp; BACKEND</text>
+      <text x="14" y="80" font-family="'Courier New', monospace" font-size="9.5" fill="#9a6a4a">Django · MySQL · HTML/CSS</text>
+      <text x="14" y="95" font-family="'Courier New', monospace" font-size="9.5" fill="#9a6a4a">JavaScript · Selenium</text>
+      <text x="14" y="115" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Django</text>
+      <rect x="14" y="118" width="174" height="4" rx="2" fill="#150800"/>
+      <rect x="14" y="118" width="124" height="4" rx="2" fill="url(#bar4)">
+        <animate attributeName="width" from="0" to="124" dur="2s" fill="freeze"/>
+      </rect>
+      <text x="14" y="136" font-family="'Courier New', monospace" font-size="8" fill="#4a5568">Testing</text>
+      <rect x="14" y="139" width="174" height="4" rx="2" fill="#150800"/>
+      <rect x="14" y="139" width="132" height="4" rx="2" fill="url(#bar4)" opacity="0.7">
+        <animate attributeName="width" from="0" to="132" dur="2.2s" fill="freeze"/>
+      </rect>
+      <text x="194" y="155" font-family="'Courier New', monospace" font-size="8" fill="#ff8c42" opacity="0.4">04</text>
+    </g>
+
+    <!-- Bottom border -->
+    <rect x="0" y="0" width="900" height="220" rx="12" fill="none" stroke="#1a1a3e" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<svg viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering Philosophy">
+  <defs>
+    <linearGradient id="pgbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#07071a"/>
+      <stop offset="100%" style="stop-color:#0c0c22"/>
+    </linearGradient>
+    <linearGradient id="ph1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.02"/>
+    </linearGradient>
+    <linearGradient id="ph2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7b2fff;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#7b2fff;stop-opacity:0.02"/>
+    </linearGradient>
+    <linearGradient id="ph3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ffcc;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#00ffcc;stop-opacity:0.02"/>
+    </linearGradient>
+    <linearGradient id="ph4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff8c42;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ff8c42;stop-opacity:0.02"/>
+    </linearGradient>
+    <linearGradient id="ph5" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff3399;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ff3399;stop-opacity:0.02"/>
+    </linearGradient>
+    <linearGradient id="ph6" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffe066;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ffe066;stop-opacity:0.02"/>
+    </linearGradient>
+    <clipPath id="pclip">
+      <rect width="900" height="170" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#pclip)">
+    <rect width="900" height="170" fill="url(#pgbg)"/>
+
+    <!-- Section title -->
+    <text x="450" y="26" font-family="'Courier New', monospace" font-size="10" fill="#4a5568" text-anchor="middle" letter-spacing="4">// ENGINEERING PHILOSOPHY //</text>
+
+    <!-- 6 philosophy hexagonal cards - row layout -->
+    <!-- Card 1: Design First -->
+    <g transform="translate(12, 38)">
+      <rect width="138" height="118" rx="6" fill="url(#ph1)" stroke="#00d4ff" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="69" y="26" font-family="monospace" font-size="18" text-anchor="middle">🏗️</text>
+      <text x="69" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#00d4ff" text-anchor="middle" letter-spacing="1">DESIGN FIRST</text>
+      <text x="69" y="65" font-family="'Courier New', monospace" font-size="8" fill="#4a6a7a" text-anchor="middle">Architecture before</text>
+      <text x="69" y="78" font-family="'Courier New', monospace" font-size="8" fill="#4a6a7a" text-anchor="middle">implementation.</text>
+      <text x="69" y="91" font-family="'Courier New', monospace" font-size="8" fill="#4a6a7a" text-anchor="middle">Fewer rewrites.</text>
+    </g>
+
+    <!-- Card 2: SOLID -->
+    <g transform="translate(162, 38)">
+      <rect width="138" height="118" rx="6" fill="url(#ph2)" stroke="#7b2fff" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="69" y="26" font-family="monospace" font-size="18" text-anchor="middle">🧩</text>
+      <text x="69" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#7b2fff" text-anchor="middle" letter-spacing="1">SOLID BY DEFAULT</text>
+      <text x="69" y="65" font-family="'Courier New', monospace" font-size="8" fill="#5a4a7a" text-anchor="middle">One responsibility.</text>
+      <text x="69" y="78" font-family="'Courier New', monospace" font-size="8" fill="#5a4a7a" text-anchor="middle">Clean interfaces.</text>
+      <text x="69" y="91" font-family="'Courier New', monospace" font-size="8" fill="#5a4a7a" text-anchor="middle">Easy to extend.</text>
+    </g>
+
+    <!-- Card 3: Scalable -->
+    <g transform="translate(312, 38)">
+      <rect width="138" height="118" rx="6" fill="url(#ph3)" stroke="#00ffcc" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="69" y="26" font-family="monospace" font-size="18" text-anchor="middle">📈</text>
+      <text x="69" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#00ffcc" text-anchor="middle" letter-spacing="1">SCALABLE DESIGN</text>
+      <text x="69" y="65" font-family="'Courier New', monospace" font-size="8" fill="#2a6a5a" text-anchor="middle">Built for growth in</text>
+      <text x="69" y="78" font-family="'Courier New', monospace" font-size="8" fill="#2a6a5a" text-anchor="middle">data, users, features.</text>
+      <text x="69" y="91" font-family="'Courier New', monospace" font-size="8" fill="#2a6a5a" text-anchor="middle">Not just test case #1.</text>
+    </g>
+
+    <!-- Card 4: Maintainable -->
+    <g transform="translate(462, 38)">
+      <rect width="138" height="118" rx="6" fill="url(#ph4)" stroke="#ff8c42" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="69" y="26" font-family="monospace" font-size="18" text-anchor="middle">🔍</text>
+      <text x="69" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#ff8c42" text-anchor="middle" letter-spacing="1">MAINTAINABLE</text>
+      <text x="69" y="65" font-family="'Courier New', monospace" font-size="8" fill="#7a5a3a" text-anchor="middle">Optimized for the</text>
+      <text x="69" y="78" font-family="'Courier New', monospace" font-size="8" fill="#7a5a3a" text-anchor="middle">next reader, including</text>
+      <text x="69" y="91" font-family="'Courier New', monospace" font-size="8" fill="#7a5a3a" text-anchor="middle">future me.</text>
+    </g>
+
+    <!-- Card 5: Performance -->
+    <g transform="translate(612, 38)">
+      <rect width="138" height="118" rx="6" fill="url(#ph5)" stroke="#ff3399" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="69" y="26" font-family="monospace" font-size="18" text-anchor="middle">⚡</text>
+      <text x="69" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#ff3399" text-anchor="middle" letter-spacing="1">INTENTIONAL PERF</text>
+      <text x="69" y="65" font-family="'Courier New', monospace" font-size="8" fill="#7a3a5a" text-anchor="middle">Efficient where it</text>
+      <text x="69" y="78" font-family="'Courier New', monospace" font-size="8" fill="#7a3a5a" text-anchor="middle">counts. No premature</text>
+      <text x="69" y="91" font-family="'Courier New', monospace" font-size="8" fill="#7a3a5a" text-anchor="middle">optimization.</text>
+    </g>
+
+    <!-- Card 6: UX is Engineering -->
+    <g transform="translate(762, 38)">
+      <rect width="126" height="118" rx="6" fill="url(#ph6)" stroke="#ffe066" stroke-width="0.8" stroke-opacity="0.5"/>
+      <text x="63" y="26" font-family="monospace" font-size="18" text-anchor="middle">🎨</text>
+      <text x="63" y="46" font-family="'Courier New', monospace" font-size="9.5" fill="#ffe066" text-anchor="middle" letter-spacing="1">UX IS ENG.</text>
+      <text x="63" y="65" font-family="'Courier New', monospace" font-size="8" fill="#7a6a2a" text-anchor="middle">Correct + frustrating</text>
+      <text x="63" y="78" font-family="'Courier New', monospace" font-size="8" fill="#7a6a2a" text-anchor="middle">= unfinished.</text>
+      <text x="63" y="91" font-family="'Courier New', monospace" font-size="8" fill="#7a6a2a" text-anchor="middle">Ship the whole thing.</text>
+    </g>
+
+    <rect x="0" y="0" width="900" height="170" rx="12" fill="none" stroke="#1a1a3e" stroke-width="1.5"/>
+  </g>
+</svg>
