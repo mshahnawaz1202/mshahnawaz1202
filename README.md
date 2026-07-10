@@ -40,7 +40,7 @@
 ║  > SOLID by default. Scalable by design. Maintained with intent.         ║
 ║                                                                          ║
 ║  PRIMARY:   Python — ML, data analysis, automation                       ║
-║  MOBILE:    Kotlin + Jetpack Compose — native Android, Firebase          ║
+║  MOBILE:    Kotlin + Android, Firebase                                   ║
 ║  SYSTEMS:   C++ — clean architecture, memory, processes                  ║
 ║  TESTING:   Selenium — quality built in, not bolted on                   ║
 ║                                                                          ║
