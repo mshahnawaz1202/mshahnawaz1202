@@ -237,7 +237,7 @@
 ║  📡  OPEN TO: Internships · Collaborations · Engineering conversations   ║
 ║                                                                          ║
 ║  ✉️   shahnawaz.swz1202@gmail.com                                        ║
-║  🔗  linkedin.com/in/muhammad-shah-nawaz-491701340                       ║
+║  🔗  linkedin.com/in/muhammad-shah-nawaz-se/                             ║
 ║  💻  github.com/mshahnawaz1202                                           ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
