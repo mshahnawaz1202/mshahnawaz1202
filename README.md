@@ -43,6 +43,7 @@
 ║  MOBILE:    Kotlin + Android, Firebase                                   ║
 ║  SYSTEMS:   C++ — clean architecture, memory, processes                  ║
 ║  TESTING:   Selenium — quality built in, not bolted on                   ║
+║  WEB DEV:   HTML5, CSS3, Javascript, ReactJS, Django                     ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
