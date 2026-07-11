@@ -32,7 +32,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM LOG :: ENGINEER PROFILE                         STATUS: ACTIVE  ║
+║  SYSTEM LOG :: ENGINEER PROFILE                         STATUS: ACTIVE   ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
 ║  > I design before I code. Architecture before implementation.           ║
