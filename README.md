@@ -258,11 +258,6 @@
 <br>
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mshahnawaz1202/mshahnawaz1202/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ```
 // END OF PROFILE TRANSMISSION //
