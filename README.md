@@ -5,7 +5,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A9C4E4&center=true&vCenter=true&multiline=true&width=650&height=90&lines=🏗️+Architecture+before+implementation;🧩+SOLID+principles+by+default;🚀+Building+software+that+lasts)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,17 +48,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d62,100:0D1117&height=3" width="100%"/>
 
-## ⚙️ Engineering Philosophy
 
-<div align="center">
-
-| 📋 Analysis & Design | 💻 Development | 🧪 Testing & QA | 🚀 Deployment |
-|:---:|:---:|:---:|:---:|
-| Requirements, UML, UI/UX modelling | Clean, documented, maintainable code | Automated test frameworks | Agile sprints & seamless CI/CD |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0a3d62&height=3" width="100%"/>
 
 ## 💻 Tech Stack
 
