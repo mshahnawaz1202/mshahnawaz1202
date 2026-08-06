@@ -7,6 +7,11 @@ Software Engineering Student • Full Stack Developer • Backend Enthusiast
 <p align="center">
 Building scalable web applications with MERN, Django, and Generative AI.
 </p>
+<p align="center">
+  <a href="https://shahnawaz-se.pages.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7C3AED?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
