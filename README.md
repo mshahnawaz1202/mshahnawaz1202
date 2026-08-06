@@ -33,8 +33,24 @@ Building scalable web applications with MERN, Django, and Generative AI.
 - 🎓 Software Engineering Student at **FAST NUCES**
 - 💻 Building **MERN, PERN, Django & Android** applications
 - 🤖 Exploring **Generative AI, RAG & LLMs**
-- 🌱 Learning **System Design, PostgreSQL, Redis & Docker**
+-  Building efficient algorithms and data structures
+-  Creating interactive and responsive web applications
 - 🤝 Open to internships, open source and collaborations
+
+## 🛠️ Software Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/Requirements%20Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Architecture-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Design-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Construction-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Management-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quality%20Assurance-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UML%20Modeling-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile%20%26%20Scrum-16A34A?style=for-the-badge"/>
+</p>
 
 ## 💻 Tech Stack
 
