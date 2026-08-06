@@ -52,6 +52,17 @@ Building scalable web applications with MERN, Django, and Generative AI.
 <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-16A34A?style=for-the-badge"/>
 </p>
 
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 📦 **Product Inventory Management** | Production-ready MERN inventory management system with real-time stock tracking, audit trails, authentication, and an analytics dashboard. | React, Node.js, Express.js, MongoDB, JWT, Bcrypt, Jest, Tailwind CSS | [GitHub](https://github.com/mshahnawaz1202/Product-Inventory-Management-System) |
+| 🏦 **Banking System API** | Secure REST API featuring JWT authentication, ledger-based audit trails, idempotent transactions, email notifications, and token blacklist logout. | Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, bcryptjs | [GitHub](https://github.com/mshahnawaz1202/Banking-System) |
+| 🎵 **Spotify Clone Backend** | Scalable backend API for a Spotify-like platform with JWT authentication, role-based access control, cloud media storage, and MVC architecture. | Node.js, Express.js, MongoDB, JWT, Bcrypt | [GitHub](https://github.com/mshahnawaz1202/Spotify-Clone-Backend) |
+| 🌍 **Smart City Diagnostic Engine** | Environmental analytics platform that detects pollution anomalies, models hazards, and visualizes urban air-quality insights using Streamlit. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine) |
+| 🛍️ **Customer Segmentation & Recommendation Engine** | ML-powered customer intelligence system using RFM analysis and K-Means clustering to generate customer personas and recommendations. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine) |
+| 🚕 **NYC Congestion Pricing Audit 2025** | Data analytics pipeline evaluating the impact of NYC's congestion pricing policy on the taxi industry using interactive dashboards. | Python, DuckDB, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit) |
+
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
