@@ -5,7 +5,7 @@ Software Engineering Student • Full Stack Developer • Backend Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications with MERN, Django, and Generative AI.
+Building scalable web applications with MERN and Django.
 </p>
 <p align="center">
   <a href="https://shahnawaz-se.pages.dev" target="_blank" rel="noopener noreferrer">
