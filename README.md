@@ -33,9 +33,33 @@ Building scalable web applications with MERN, Django, and Generative AI.
 - 🎓 Software Engineering Student at **FAST NUCES**
 - 💻 Building **MERN, PERN, Django & Android** applications
 - 🤖 Exploring **Generative AI, RAG & LLMs**
--  Building efficient algorithms and data structures
--  Creating interactive and responsive web applications
+- 🏗️ Passionate about Backend Engineering, System Design & Scalable Architectures
+- 🧠 Strong foundation in Data Structures, Algorithms & Object-Oriented Design
 - 🤝 Open to internships, open source and collaborations
+
+
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 📦 **Product Inventory Management** | Production-ready MERN inventory management system with real-time stock tracking, audit trails, authentication, and an analytics dashboard. | React, Node.js, Express.js, MongoDB, JWT, Bcrypt, Jest, Tailwind CSS | [GitHub](https://github.com/mshahnawaz1202/Product-Inventory-Management-System) |
+| 🏦 **Banking System API** | Secure REST API featuring JWT authentication, ledger-based audit trails, idempotent transactions, email notifications, and token blacklist logout. | Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, bcryptjs | [GitHub](https://github.com/mshahnawaz1202/Banking-System) |
+| 🎵 **Spotify Clone Backend** | Scalable backend API for a Spotify-like platform with JWT authentication, role-based access control, cloud media storage, and MVC architecture. | Node.js, Express.js, MongoDB, JWT, Bcrypt | [GitHub](https://github.com/mshahnawaz1202/Spotify-Clone-Backend) |
+| 🌍 **Smart City Diagnostic Engine** | Environmental analytics platform that detects pollution anomalies, models hazards, and visualizes urban air-quality insights using Streamlit. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine) |
+| 🛍️ **Customer Segmentation & Recommendation Engine** | ML-powered customer intelligence system using RFM analysis and K-Means clustering to generate customer personas and recommendations. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine) |
+| 🚕 **NYC Congestion Pricing Audit 2025** | Data analytics pipeline evaluating the impact of NYC's congestion pricing policy on the taxi industry using interactive dashboards. | Python, DuckDB, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit) |
+
+
+## 📜 Certifications
+
+| Certification | Issuer | Skills | Verify |
+|---------------|--------|--------|--------|
+| 🤖 **Claude 101** | Anthropic | Claude AI, Prompt Engineering, Generative AI, AI Fundamentals | [Credential](https://verify.skilljar.com/c/mgb5qbgxrq7i) |
+| 💻 **Claude Code 101** | Anthropic | Claude Code, AI-Assisted Development, Developer Tools, Software Engineering | [Credential](https://verify.skilljar.com/c/gt5kwf6jou9s) |
+| ☕ **Java (Basic)** | HackerRank | Java, OOP, Problem Solving, Programming Fundamentals | [Certificate](https://www.hackerrank.com/certificates/16318e40c5d0) |
+| 🐍 **Python (Basic)** | HackerRank | Python, Programming, Problem Solving, Algorithms | [Certificate](https://www.hackerrank.com/certificates/iframe/50f491907089) |
+| 🌐 **Exploring Networking with Cisco Packet Tracer** | Cisco Networking Academy | Computer Networking, Cisco Packet Tracer, Network Simulation, Networking Fundamentals | [Certificate](https://www.netacad.com/certificates/?issuanceId=a62fc860-107f-4899-92a8-a58a4be63a24) |
 
 ## 🛠️ Software Engineering
 
@@ -52,21 +76,10 @@ Building scalable web applications with MERN, Django, and Generative AI.
 <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-16A34A?style=for-the-badge"/>
 </p>
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 📦 **Product Inventory Management** | Production-ready MERN inventory management system with real-time stock tracking, audit trails, authentication, and an analytics dashboard. | React, Node.js, Express.js, MongoDB, JWT, Bcrypt, Jest, Tailwind CSS | [GitHub](https://github.com/mshahnawaz1202/Product-Inventory-Management-System) |
-| 🏦 **Banking System API** | Secure REST API featuring JWT authentication, ledger-based audit trails, idempotent transactions, email notifications, and token blacklist logout. | Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, bcryptjs | [GitHub](https://github.com/mshahnawaz1202/Banking-System) |
-| 🎵 **Spotify Clone Backend** | Scalable backend API for a Spotify-like platform with JWT authentication, role-based access control, cloud media storage, and MVC architecture. | Node.js, Express.js, MongoDB, JWT, Bcrypt | [GitHub](https://github.com/mshahnawaz1202/Spotify-Clone-Backend) |
-| 🌍 **Smart City Diagnostic Engine** | Environmental analytics platform that detects pollution anomalies, models hazards, and visualizes urban air-quality insights using Streamlit. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine) |
-| 🛍️ **Customer Segmentation & Recommendation Engine** | ML-powered customer intelligence system using RFM analysis and K-Means clustering to generate customer personas and recommendations. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine) |
-| 🚕 **NYC Congestion Pricing Audit 2025** | Data analytics pipeline evaluating the impact of NYC's congestion pricing policy on the taxi industry using interactive dashboards. | Python, DuckDB, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit) |
 
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -78,7 +91,6 @@ Building scalable web applications with MERN, Django, and Generative AI.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -88,8 +100,7 @@ Building scalable web applications with MERN, Django, and Generative AI.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -120,7 +131,6 @@ Building scalable web applications with MERN, Django, and Generative AI.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 📱 Desktop & Networking
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
