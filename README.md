@@ -48,12 +48,13 @@ Building scalable web applications with MERN, Django, and Generative AI.
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mshahnawaz1202&theme=radical&layout=compact&include_all_commits=true&count_private=true"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mshahnawaz1202&theme=algolia&no-frame=true"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mshahnawaz1202&label=Profile%20Views&color=0e75b6"/>
 </p>
+
+
