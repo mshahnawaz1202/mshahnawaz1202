@@ -14,18 +14,18 @@ Building scalable web applications with MERN, Django, and Generative AI.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:shahnawaz.swz1202@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://medium.com/@shahnawaz.swz1202" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/medium/ffffff" alt="Medium" width="48" height="48"/>
 </a>
-<a href="mailto:shahnawaz.swz1202@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-<a href="https://medium.com/@shahnawaz.swz1202">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
-<a href="https://www.instagram.com/m.shahnawaz_1202/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+  <a href="https://www.instagram.com/m.shahnawaz_1202/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </p>
 
 ## 🚀 About Me
