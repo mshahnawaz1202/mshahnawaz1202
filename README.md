@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shah Nawaz</h1>
+<h1 align="center">I'm Muhammad Shah Nawaz</h1>
 
 <h3 align="center">
 Software Engineering Student • Full Stack Developer • Backend Enthusiast
