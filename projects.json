@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Product Inventory",
+    "repo": "mshahnawaz1202/Product-Inventory-Management-System",
+    "logo": "./logos/product_inventory.png",
+    "description": "Production-ready MERN stack app: real-time stock levels, atomic audit trail, analytics dashboard.",
+    "tags": ["Node JS", "React JS", "MongoDB"]
+  },
+  {
+    "name": "Banking System API",
+    "repo": "mshahnawaz1202/Banking-System",
+    "logo": "./logos/api_banking.jfif",
+    "description": "Secure REST API with JWT auth, ledger system, idempotency keys, and Nodemailer notifications.",
+    "tags": ["Node JS", "Express JS", "MongoDB"]
+  },
+  {
+    "name": "Spotify Clone Backend",
+    "repo": "mshahnawaz1202/Spotify-Clone-Backend",
+    "logo": "/logos/spotify.jpg",
+    "description": "Scalable music streaming REST API with JWT cookie auth, RBAC, cloud media storage, MVC architecture.",
+    "tags": ["Node JS", "MongoDB", "JWT"]
+  },
+  {
+    "name": "Smart City Engine",
+    "repo": "mshahnawaz1202/Smart-City-Diagnostic-Engine",
+    "logo": "/logos/smartCity.jfif",
+    "description": "Environmental analytics system detecting pollution anomalies from 100 global sensor nodes via Streamlit.",
+    "tags": ["Python", "Scikit-Learn", "Streamlit"]
+  },
+  {
+    "name": "Customer Segmentation",
+    "repo": "mshahnawaz1202/Customer-Segmentation-Recommendation-Engine",
+    "logo": "/logos/cse.jfif",
+    "description": "E-commerce intelligence: RFM analysis, K-Means clustering, and behavior-based recommendations.",
+    "tags": ["Python", "Pandas", "Scikit-Learn"]
+  },
+  {
+    "name": "NYC Congestion Audit",
+    "repo": "mshahnawaz1202/NYC-Congestion-Pricing-Audit",
+    "logo": "/logos/nyc.jfif",
+    "description": "Data pipeline assessing the impact of Manhattan's 2025 Congestion Relief Zone toll on NYC taxis.",
+    "tags": ["DuckDB", "Python", "Streamlit"]
+  },
+  {
+    "name": "StayFinder",
+    "repo": "mshahnawaz1202/Stay-Finder-Airbnb-Inspired-Property-Rental-Application-",
+    "logo": "/logos/stayfinder.jfif",
+    "description": "Full-featured Airbnb-inspired Android app with Firebase auth, real-time listings, and Room/SQLite.",
+    "tags": ["Kotlin", "Jetpack Compose", "Firebase"]
+  },
+  {
+    "name": "BOS Optics",
+    "repo": "mshahnawaz1202/BOS-Optics",
+    "logo": "/logos/logo_pic.png",
+    "description": "Full-stack Django e-commerce for an optical store: browse eyewear, cart, orders, and appointments.",
+    "tags": ["Python", "Django", "SQLite"]
+  },
+  {
+    "name": "TestOps Framework",
+    "repo": "mshahnawaz1202/TestOps-andAutomation-Framework",
+    "logo": "/logos/testops.jfif",
+    "description": "BDD Test Automation Framework for Web UI with Selenium, Cucumber, and Allure Reports.",
+    "tags": ["Java", "Selenium", "Cucumber"]
+  },
+  {
+    "name": "Arabic Poetry",
+    "repo": "mshahnawaz1202/Arabic-Poetry-Management-System",
+    "logo": "/logos/poetry.jfif",
+    "description": "Multi-layered JavaFX desktop app for managing and analyzing Arabic poetry with 3-tier architecture.",
+    "tags": ["Java", "JavaFX", "MySQL"]
+  },
+  {
+    "name": "Mini Blog",
+    "repo": "mshahnawaz1202/Backend",
+    "logo": "/logos/mini_Blog.jpg",
+    "description": "Full-stack blog with React, Vite, Express, MongoDB, Tailwind CSS, and ImageKit media storage.",
+    "tags": ["React JS", "Node JS", "MongoDB"]
+  },
+  {
+    "name": "Mini Power BI",
+    "repo": "mshahnawaz1202/MiniPowerBI",
+    "logo": "/logos/power-bi.jfif",
+    "description": "Power BI-style analytics dashboard: upload, clean, visualize, train ML, predict, and chat with data.",
+    "tags": ["Python", "Streamlit", "Scikit-learn"]
+  },
+  {
+    "name": "Mini OS",
+    "repo": "mshahnawaz1202/Mini-Operating-System",
+    "logo": "/logos/os.jfif",
+    "description": "Console-based OS simulator in C++: process/memory management and scheduling algorithms.",
+    "tags": ["C++", "OS Concepts"]
+  },
+  {
+    "name": "Mini Instagram",
+    "repo": "mshahnawaz1202/Mini-Instagram",
+    "logo": "/logos/instagram.jfif",
+    "description": "C++ terminal simulation of Instagram with messaging, posts, and friend requests.",
+    "tags": ["C++", "Data Structures"]
+  },
+  {
+    "name": "Contact Book",
+    "repo": "mshahnawaz1202/Contact-Book-Application",
+    "logo": "/logos/contact-book.jfif",
+    "description": "Console contact manager in C++ using OOP: CRUD, file persistence, and searching.",
+    "tags": ["C++", "OOP"]
+  },
+  {
+    "name": "Tic Tac Toe",
+    "repo": "mshahnawaz1202/TicTacToe",
+    "logo": "/logos/tictactoe.png",
+    "description": "C++ Tic-Tac-Toe with score tracking, match history, leaderboard, and file handling.",
+    "tags": ["C++"]
+  },
+  {
+    "name": "Dalgona Challenge",
+    "repo": "mshahnawaz1202/DALGONA-CHALLENGE",
+    "logo": "/logos/dalgona.png",
+    "description": "Terminal-based Dalgona shape guessing game in Bash with single-player, multiplayer, and AI modes.",
+    "tags": ["Bash", "WSL2"]
+  }
+]
