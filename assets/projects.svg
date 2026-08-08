@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1218" viewBox="0 0 1200 1218">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#57d9ff"/><stop offset="1" stop-color="#a98bff"/></linearGradient></defs>
+<rect width="100%" height="100%" rx="18" fill="#070d16"/>
+<rect x="18" y="18" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="52" r="20" fill="url(#g)"/>
+<text x="52" y="57" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">PI</text>
+<text x="82" y="48" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Product Inventory</text>
+<text x="36" y="88" font-family="Arial" font-size="11.5" fill="#91a8b9">Production-ready MERN stack app: real-time</text>
+<text x="36" y="106" font-family="Arial" font-size="11.5" fill="#91a8b9">stock levels, atomic audit trail, analytics</text>
+<text x="36" y="124" font-family="Arial" font-size="11.5" fill="#91a8b9">dashboard.</text>
+<text x="36" y="160" font-family="monospace" font-size="10.5" fill="#57d9ff">Node JS · React JS · MongoDB</text>
+<text x="36" y="182" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Product-Inventory-Management-System</text>
+<rect x="412" y="18" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="52" r="20" fill="url(#g)"/>
+<text x="446" y="57" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">BS</text>
+<text x="476" y="48" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Banking System API</text>
+<text x="430" y="88" font-family="Arial" font-size="11.5" fill="#91a8b9">Secure REST API with JWT auth, ledger system,</text>
+<text x="430" y="106" font-family="Arial" font-size="11.5" fill="#91a8b9">idempotency keys, and Nodemailer</text>
+<text x="430" y="124" font-family="Arial" font-size="11.5" fill="#91a8b9">notifications.</text>
+<text x="430" y="160" font-family="monospace" font-size="10.5" fill="#57d9ff">Node JS · Express JS · MongoDB</text>
+<text x="430" y="182" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Banking-System</text>
+<rect x="806" y="18" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="840" cy="52" r="20" fill="url(#g)"/>
+<text x="840" y="57" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">SC</text>
+<text x="870" y="48" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Spotify Clone Backend</text>
+<text x="824" y="88" font-family="Arial" font-size="11.5" fill="#91a8b9">Scalable music streaming REST API with JWT</text>
+<text x="824" y="106" font-family="Arial" font-size="11.5" fill="#91a8b9">cookie auth, RBAC, cloud media storage, MVC</text>
+<text x="824" y="124" font-family="Arial" font-size="11.5" fill="#91a8b9">architecture.</text>
+<text x="824" y="160" font-family="monospace" font-size="10.5" fill="#57d9ff">Node JS · MongoDB · JWT</text>
+<text x="824" y="182" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Spotify-Clone-Backend</text>
+<rect x="18" y="218" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="252" r="20" fill="url(#g)"/>
+<text x="52" y="257" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">SC</text>
+<text x="82" y="248" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Smart City Engine</text>
+<text x="36" y="288" font-family="Arial" font-size="11.5" fill="#91a8b9">Environmental analytics system detecting</text>
+<text x="36" y="306" font-family="Arial" font-size="11.5" fill="#91a8b9">pollution anomalies from 100 global sensor</text>
+<text x="36" y="324" font-family="Arial" font-size="11.5" fill="#91a8b9">nodes via Streamlit.</text>
+<text x="36" y="360" font-family="monospace" font-size="10.5" fill="#57d9ff">Python · Scikit-Learn · Streamlit</text>
+<text x="36" y="382" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine</text>
+<rect x="412" y="218" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="252" r="20" fill="url(#g)"/>
+<text x="446" y="257" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">CS</text>
+<text x="476" y="248" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Customer Segmentation</text>
+<text x="430" y="288" font-family="Arial" font-size="11.5" fill="#91a8b9">E-commerce intelligence: RFM analysis,</text>
+<text x="430" y="306" font-family="Arial" font-size="11.5" fill="#91a8b9">K-Means clustering, and behavior-based</text>
+<text x="430" y="324" font-family="Arial" font-size="11.5" fill="#91a8b9">recommendations.</text>
+<text x="430" y="360" font-family="monospace" font-size="10.5" fill="#57d9ff">Python · Pandas · Scikit-Learn</text>
+<text x="430" y="382" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine</text>
+<rect x="806" y="218" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="840" cy="252" r="20" fill="url(#g)"/>
+<text x="840" y="257" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">NC</text>
+<text x="870" y="248" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">NYC Congestion Audit</text>
+<text x="824" y="288" font-family="Arial" font-size="11.5" fill="#91a8b9">Data pipeline assessing the impact of</text>
+<text x="824" y="306" font-family="Arial" font-size="11.5" fill="#91a8b9">Manhattan's 2025 Congestion Relief Zone toll</text>
+<text x="824" y="324" font-family="Arial" font-size="11.5" fill="#91a8b9">on NYC taxis.</text>
+<text x="824" y="360" font-family="monospace" font-size="10.5" fill="#57d9ff">DuckDB · Python · Streamlit</text>
+<text x="824" y="382" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit</text>
+<rect x="18" y="418" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="452" r="20" fill="url(#g)"/>
+<text x="52" y="457" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">S</text>
+<text x="82" y="448" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">StayFinder</text>
+<text x="36" y="488" font-family="Arial" font-size="11.5" fill="#91a8b9">Full-featured Airbnb-inspired Android app</text>
+<text x="36" y="506" font-family="Arial" font-size="11.5" fill="#91a8b9">with Firebase auth, real-time listings, and</text>
+<text x="36" y="524" font-family="Arial" font-size="11.5" fill="#91a8b9">Room/SQLite.</text>
+<text x="36" y="560" font-family="monospace" font-size="10.5" fill="#57d9ff">Kotlin · Jetpack Compose · Firebase</text>
+<text x="36" y="582" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Stay-Finder-Airbnb-Inspired-Property-Rental-Application-</text>
+<rect x="412" y="418" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="452" r="20" fill="url(#g)"/>
+<text x="446" y="457" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">BO</text>
+<text x="476" y="448" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">BOS Optics</text>
+<text x="430" y="488" font-family="Arial" font-size="11.5" fill="#91a8b9">Full-stack Django e-commerce for an optical</text>
+<text x="430" y="506" font-family="Arial" font-size="11.5" fill="#91a8b9">store: browse eyewear, cart, orders, and</text>
+<text x="430" y="524" font-family="Arial" font-size="11.5" fill="#91a8b9">appointments.</text>
+<text x="430" y="560" font-family="monospace" font-size="10.5" fill="#57d9ff">Python · Django · SQLite</text>
+<text x="430" y="582" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/BOS-Optics</text>
+<rect x="806" y="418" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="840" cy="452" r="20" fill="url(#g)"/>
+<text x="840" y="457" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">TF</text>
+<text x="870" y="448" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">TestOps Framework</text>
+<text x="824" y="488" font-family="Arial" font-size="11.5" fill="#91a8b9">BDD Test Automation Framework for Web UI with</text>
+<text x="824" y="506" font-family="Arial" font-size="11.5" fill="#91a8b9">Selenium, Cucumber, and Allure Reports.</text>
+<text x="824" y="560" font-family="monospace" font-size="10.5" fill="#57d9ff">Java · Selenium · Cucumber</text>
+<text x="824" y="582" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/TestOps-andAutomation-Framework</text>
+<rect x="18" y="618" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="652" r="20" fill="url(#g)"/>
+<text x="52" y="657" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">AP</text>
+<text x="82" y="648" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Arabic Poetry</text>
+<text x="36" y="688" font-family="Arial" font-size="11.5" fill="#91a8b9">Multi-layered JavaFX desktop app for managing</text>
+<text x="36" y="706" font-family="Arial" font-size="11.5" fill="#91a8b9">and analyzing Arabic poetry with 3-tier</text>
+<text x="36" y="724" font-family="Arial" font-size="11.5" fill="#91a8b9">architecture.</text>
+<text x="36" y="760" font-family="monospace" font-size="10.5" fill="#57d9ff">Java · JavaFX · MySQL</text>
+<text x="36" y="782" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Arabic-Poetry-Management-System</text>
+<rect x="412" y="618" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="652" r="20" fill="url(#g)"/>
+<text x="446" y="657" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">MB</text>
+<text x="476" y="648" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Mini Blog</text>
+<text x="430" y="688" font-family="Arial" font-size="11.5" fill="#91a8b9">Full-stack blog with React, Vite, Express,</text>
+<text x="430" y="706" font-family="Arial" font-size="11.5" fill="#91a8b9">MongoDB, Tailwind CSS, and ImageKit media</text>
+<text x="430" y="724" font-family="Arial" font-size="11.5" fill="#91a8b9">storage.</text>
+<text x="430" y="760" font-family="monospace" font-size="10.5" fill="#57d9ff">React JS · Node JS · MongoDB</text>
+<text x="430" y="782" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Backend</text>
+<rect x="806" y="618" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="840" cy="652" r="20" fill="url(#g)"/>
+<text x="840" y="657" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">MP</text>
+<text x="870" y="648" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Mini Power BI</text>
+<text x="824" y="688" font-family="Arial" font-size="11.5" fill="#91a8b9">Power BI-style analytics dashboard: upload,</text>
+<text x="824" y="706" font-family="Arial" font-size="11.5" fill="#91a8b9">clean, visualize, train ML, predict, and chat</text>
+<text x="824" y="724" font-family="Arial" font-size="11.5" fill="#91a8b9">with data.</text>
+<text x="824" y="760" font-family="monospace" font-size="10.5" fill="#57d9ff">Python · Streamlit · Scikit-learn</text>
+<text x="824" y="782" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/MiniPowerBI</text>
+<rect x="18" y="818" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="852" r="20" fill="url(#g)"/>
+<text x="52" y="857" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">MO</text>
+<text x="82" y="848" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Mini OS</text>
+<text x="36" y="888" font-family="Arial" font-size="11.5" fill="#91a8b9">Console-based OS simulator in C++:</text>
+<text x="36" y="906" font-family="Arial" font-size="11.5" fill="#91a8b9">process/memory management and scheduling</text>
+<text x="36" y="924" font-family="Arial" font-size="11.5" fill="#91a8b9">algorithms.</text>
+<text x="36" y="960" font-family="monospace" font-size="10.5" fill="#57d9ff">C++ · OS Concepts</text>
+<text x="36" y="982" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Mini-Operating-System</text>
+<rect x="412" y="818" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="852" r="20" fill="url(#g)"/>
+<text x="446" y="857" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">MI</text>
+<text x="476" y="848" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Mini Instagram</text>
+<text x="430" y="888" font-family="Arial" font-size="11.5" fill="#91a8b9">C++ terminal simulation of Instagram with</text>
+<text x="430" y="906" font-family="Arial" font-size="11.5" fill="#91a8b9">messaging, posts, and friend requests.</text>
+<text x="430" y="960" font-family="monospace" font-size="10.5" fill="#57d9ff">C++ · Data Structures</text>
+<text x="430" y="982" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Mini-Instagram</text>
+<rect x="806" y="818" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="840" cy="852" r="20" fill="url(#g)"/>
+<text x="840" y="857" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">CB</text>
+<text x="870" y="848" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Contact Book</text>
+<text x="824" y="888" font-family="Arial" font-size="11.5" fill="#91a8b9">Console contact manager in C++ using OOP:</text>
+<text x="824" y="906" font-family="Arial" font-size="11.5" fill="#91a8b9">CRUD, file persistence, and searching.</text>
+<text x="824" y="960" font-family="monospace" font-size="10.5" fill="#57d9ff">C++ · OOP</text>
+<text x="824" y="982" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/Contact-Book-Application</text>
+<rect x="18" y="1018" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="52" cy="1052" r="20" fill="url(#g)"/>
+<text x="52" y="1057" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">TT</text>
+<text x="82" y="1048" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Tic Tac Toe</text>
+<text x="36" y="1088" font-family="Arial" font-size="11.5" fill="#91a8b9">C++ Tic-Tac-Toe with score tracking, match</text>
+<text x="36" y="1106" font-family="Arial" font-size="11.5" fill="#91a8b9">history, leaderboard, and file handling.</text>
+<text x="36" y="1160" font-family="monospace" font-size="10.5" fill="#57d9ff">C++</text>
+<text x="36" y="1182" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/TicTacToe</text>
+<rect x="412" y="1018" width="376" height="182" rx="14" fill="#0b1421" stroke="#20354a"/>
+<circle cx="446" cy="1052" r="20" fill="url(#g)"/>
+<text x="446" y="1057" text-anchor="middle" font-family="Arial" font-weight="700" font-size="12" fill="#07101a">DC</text>
+<text x="476" y="1048" font-family="Arial" font-weight="700" font-size="16" fill="#eaf7ff">Dalgona Challenge</text>
+<text x="430" y="1088" font-family="Arial" font-size="11.5" fill="#91a8b9">Terminal-based Dalgona shape guessing game in</text>
+<text x="430" y="1106" font-family="Arial" font-size="11.5" fill="#91a8b9">Bash with single-player, multiplayer, and AI</text>
+<text x="430" y="1124" font-family="Arial" font-size="11.5" fill="#91a8b9">modes.</text>
+<text x="430" y="1160" font-family="monospace" font-size="10.5" fill="#57d9ff">Bash · WSL2</text>
+<text x="430" y="1182" font-family="monospace" font-size="10" fill="#607b8e">github.com/mshahnawaz1202/DALGONA-CHALLENGE</text>
+</svg>
