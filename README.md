@@ -20,9 +20,7 @@ Building scalable web applications with MERN and Django.
   <a href="mailto:shahnawaz.swz1202@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://medium.com/@shahnawaz.swz1202" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/medium/ffffff" alt="Medium" width="48" height="48"/>
-</a>
+ 
   <a href="https://www.instagram.com/m.shahnawaz_1202/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
