@@ -29,8 +29,7 @@ Building scalable web applications with MERN and Django.
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student at **FAST NUCES**
-- 💻 Building **MERN, PERN, Django & Android** applications
-- 🤖 Exploring **Generative AI, RAG & LLMs**
+- 💻 Building **MERN, PERN and Django** applications
 - 🏗️ Passionate about Backend Engineering, System Design & Scalable Architectures
 - 🧠 Strong foundation in Data Structures, Algorithms & Object-Oriented Design
 - 🤝 Open to internships, open source and collaborations
