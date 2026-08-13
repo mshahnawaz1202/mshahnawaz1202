@@ -147,6 +147,7 @@ Building scalable web applications with MERN and Django.
     alt="Most Used Languages"
   />
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -160,5 +161,8 @@ Building scalable web applications with MERN and Django.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mshahnawaz1202&label=Profile%20Views&color=0e75b6"/>
 </p>
+
+
+
 
 
