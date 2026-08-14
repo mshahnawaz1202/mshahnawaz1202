@@ -26,13 +26,16 @@ Building scalable web applications with MERN and Django.
   </a>
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineering Student at **FAST NUCES**
-- 💻 Building **MERN, PERN and Django** applications
-- 🏗️ Passionate about Backend Engineering, System Design & Scalable Architectures
-- 🧠 Strong foundation in Data Structures, Algorithms & Object-Oriented Design
-- 🤝 Open to internships, open source and collaborations
+I’m a **Software Engineering student at FAST-NUCES** who enjoys turning real-world problems into reliable software.
+
+My main focus is **Full Stack Development and Backend Engineering**, where I work with MERN, Django, REST APIs, databases, authentication, testing, and software architecture. I also explore **Data Analytics and Machine Learning** to build data-driven applications.
+
+I enjoy understanding a problem before writing the solution, breaking complex requirements into manageable parts, and designing systems that are clean, maintainable, and scalable.
+
+I’m continuously working toward becoming a stronger Software Engineer by building real projects, learning from challenging problems, and improving both my technical and engineering skills.
+
 
 
 
