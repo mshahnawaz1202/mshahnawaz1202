@@ -151,11 +151,21 @@ I’m continuously working toward becoming a stronger Software Engineer by build
   />
 </p>
 
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mshahnawaz1202&theme=redical&hide_border=true" />
+  <a href="https://github.com/mshahnawaz1202">
+    <img
+      src="https://ghchart.rshah.org/7C3AED/mshahnawaz1202"
+      alt="GitHub Contribution Calendar"
+      width="100%"
+    />
+  </a>
 </p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
