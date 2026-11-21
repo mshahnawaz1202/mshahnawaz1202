@@ -63,8 +63,8 @@ My main focus is Full Stack Development and Backend Engineering: MERN, Django, R
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&hide_border=true&bg_color=111418&title_color=e0a673&icon_color=c97b4a&text_color=9ba3ab&border_color=c97b4a&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&hide_border=true&bg_color=111418&title_color=e0a673&text_color=9ba3ab&border_color=c97b4a&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&border_color=bd93f9&include_all_commits=true&count_private=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&border_color=bd93f9&langs_count=8" />
 
 <br/><br/>
 
@@ -79,16 +79,16 @@ My main focus is Full Stack Development and Backend Engineering: MERN, Django, R
 <div align="center">
 
 <a href="mailto:shahnawaz.swz1202@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111418?style=for-the-badge&logo=gmail&logoColor=e0a673&labelColor=111418" />
+  <img src="https://img.shields.io/badge/EMAIL-282a36?style=for-the-badge&logo=gmail&logoColor=ff79c6&labelColor=282a36" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
-  <img src="https://img.shields.io/badge/LINKEDIN-111418?style=for-the-badge&logo=linkedin&logoColor=e0a673&labelColor=111418" />
+  <img src="https://img.shields.io/badge/LINKEDIN-282a36?style=for-the-badge&logo=linkedin&logoColor=bd93f9&labelColor=282a36" />
 </a>
 <a href="https://github.com/mshahnawaz1202">
-  <img src="https://img.shields.io/badge/GITHUB-111418?style=for-the-badge&logo=github&logoColor=e0a673&labelColor=111418" />
+  <img src="https://img.shields.io/badge/GITHUB-282a36?style=for-the-badge&logo=github&logoColor=8be9fd&labelColor=282a36" />
 </a>
 <a href="https://shahnawaz-se.pages.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111418?style=for-the-badge&logo=firefox&logoColor=e0a673&labelColor=111418" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-282a36?style=for-the-badge&logo=firefox&logoColor=50fa7b&labelColor=282a36" />
 </a>
 
 </div>
