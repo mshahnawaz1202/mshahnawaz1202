@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 68" width="900" height="68" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000"/>
+      <stop offset="8%" stop-color="#fff"/>
+      <stop offset="92%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+    <mask id="edges"><rect width="900" height="68" fill="url(#fade)"/></mask>
+
+    <filter id="g2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <g id="run" font-size="18">
+      <text x="0"    y="40" fill="#e0a673">JavaScript</text>
+      <text x="124"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="156"  y="40" fill="#9ba3ab">React</text>
+      <text x="236"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="268"  y="40" fill="#c97b4a">Node.js</text>
+      <text x="364"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="396"  y="40" fill="#9ba3ab">Express.js</text>
+      <text x="508"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="540"  y="40" fill="#e0a673">MongoDB</text>
+      <text x="656"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="688"  y="40" fill="#9ba3ab">Django</text>
+      <text x="780"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="812"  y="40" fill="#c97b4a">Python</text>
+      <text x="896"  y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="928"  y="40" fill="#9ba3ab">REST APIs</text>
+      <text x="1038" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="1070" y="40" fill="#e0a673">JWT</text>
+      <text x="1120" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="1152" y="40" fill="#9ba3ab">SQL</text>
+      <text x="1202" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="1234" y="40" fill="#c97b4a">Jest</text>
+      <text x="1288" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="1320" y="40" fill="#9ba3ab">Tailwind</text>
+      <text x="1420" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+      <text x="1452" y="40" fill="#e0a673">Git</text>
+      <text x="1494" y="40" fill="#c97b4a" filter="url(#g2)">◆</text>
+    </g>
+  </defs>
+
+  <g mask="url(#edges)">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 0" to="-1540 0" dur="28s" repeatCount="indefinite"/>
+      <use href="#run" x="0"/>
+      <use href="#run" x="1540"/>
+      <use href="#run" x="3080"/>
+    </g>
+  </g>
+
+  <line x1="0" y1="62" x2="900" y2="62" stroke="#c97b4a" stroke-opacity="0.3" stroke-width="1"/>
+  <rect y="61" width="160" height="2" rx="1" fill="#e0a673" filter="url(#g2)">
+    <animate attributeName="x" values="-160;900;-160" dur="28s" repeatCount="indefinite"/>
+  </rect>
+</svg>

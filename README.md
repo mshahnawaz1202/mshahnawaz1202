@@ -1,181 +1,102 @@
-<h1 align="center">I'm Muhammad Shah Nawaz</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student • Full Stack Developer • Backend Enthusiast
-</h3>
+<img width="100%" src="assets/cover.svg" alt="Muhammad Shah Nawaz" />
 
-<p align="center">
-Building scalable web applications with MERN and Django.
-</p>
-<p align="center">
-  <a href="https://shahnawaz-se.pages.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7C3AED?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="mailto:shahnawaz.swz1202@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
- 
-  <a href="https://www.instagram.com/m.shahnawaz_1202/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</p>
+<br/>
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I’m a **Software Engineering student at FAST-NUCES** who enjoys turning real-world problems into reliable software.
+### About
 
-My main focus is **Full Stack Development and Backend Engineering**, where I work with MERN, Django, REST APIs, databases, authentication, testing, and software architecture. I also explore **Data Analytics and Machine Learning** to build data-driven applications.
+I enjoy turning real-world problems into reliable software — not just shipping features, but designing systems that are clean, maintainable, and built to scale.
 
-I enjoy understanding a problem before writing the solution, breaking complex requirements into manageable parts, and designing systems that are clean, maintainable, and scalable.
+My main focus is Full Stack Development and Backend Engineering: MERN, Django, REST APIs, databases, authentication, testing. I also explore Data Analytics and Machine Learning to build data-driven applications on the side.
 
-I’m continuously working toward becoming a stronger Software Engineer by building real projects, learning from challenging problems, and improving both my technical and engineering skills.
+**Currently**
 
+- Software Engineering student at FAST-NUCES
+- Building production-grade MERN and Django backends
+- Breaking down big requirements into clean, testable pieces
+- Always has a project running on the side
 
+</td>
+<td width="50%" valign="top">
 
+<img width="100%" src="assets/terminal.svg" alt="terminal" />
 
-## 🌟 Featured Projects
+</td>
+</tr>
+</table>
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 📦 **Product Inventory Management** | Production-ready MERN inventory management system with real-time stock tracking, audit trails, authentication, and an analytics dashboard. | React, Node.js, Express.js, MongoDB, JWT, Bcrypt, Jest, Tailwind CSS | [GitHub](https://github.com/mshahnawaz1202/Product-Inventory-Management-System) |
-| 🏦 **Banking System API** | Secure REST API featuring JWT authentication, ledger-based audit trails, idempotent transactions, email notifications, and token blacklist logout. | Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer, bcryptjs | [GitHub](https://github.com/mshahnawaz1202/Banking-System) |
-| 🎵 **Spotify Clone Backend** | Scalable backend API for a Spotify-like platform with JWT authentication, role-based access control, cloud media storage, and MVC architecture. | Node.js, Express.js, MongoDB, JWT, Bcrypt | [GitHub](https://github.com/mshahnawaz1202/Spotify-Clone-Backend) |
-| 🌍 **Smart City Diagnostic Engine** | Environmental analytics platform that detects pollution anomalies, models hazards, and visualizes urban air-quality insights using Streamlit. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine) |
-| 🛍️ **Customer Segmentation & Recommendation Engine** | ML-powered customer intelligence system using RFM analysis and K-Means clustering to generate customer personas and recommendations. | Python, NumPy, Pandas, Scikit-learn, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine) |
-| 🚕 **NYC Congestion Pricing Audit 2025** | Data analytics pipeline evaluating the impact of NYC's congestion pricing policy on the taxi industry using interactive dashboards. | Python, DuckDB, Matplotlib, Streamlit | [GitHub](https://github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit) |
+<br/>
 
+<div align="center">
+<img width="100%" src="assets/stack.svg" alt="tech stack" />
+</div>
 
-## 📜 Certifications
+<br/>
 
-| Certification | Issuer | Skills | Verify |
-|---------------|--------|--------|--------|
-| 🤖 **Claude 101** | Anthropic | Claude AI, Prompt Engineering, Generative AI, AI Fundamentals | [Credential](https://verify.skilljar.com/c/mgb5qbgxrq7i) |
-| 💻 **Claude Code 101** | Anthropic | Claude Code, AI-Assisted Development, Developer Tools, Software Engineering | [Credential](https://verify.skilljar.com/c/gt5kwf6jou9s) |
-| ☕ **Java (Basic)** | HackerRank | Java, OOP, Problem Solving, Programming Fundamentals | [Certificate](https://www.hackerrank.com/certificates/16318e40c5d0) |
-| 🐍 **Python (Basic)** | HackerRank | Python, Programming, Problem Solving, Algorithms | [Certificate](https://www.hackerrank.com/certificates/iframe/50f491907089) |
-| 🌐 **Exploring Networking with Cisco Packet Tracer** | Cisco Networking Academy | Computer Networking, Cisco Packet Tracer, Network Simulation, Networking Fundamentals | [Certificate](https://www.netacad.com/certificates/?issuanceId=a62fc860-107f-4899-92a8-a58a4be63a24) |
+## Things I've Built
 
-## 🛠️ Software Engineering
+<div align="center">
+
+<img width="100%" src="assets/projects.svg" alt="project cards" />
+
+</div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Requirements%20Engineering-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Architecture-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Design-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Construction-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Project%20Management-F59E0B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quality%20Assurance-DC2626?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDLC-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UML%20Modeling-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Patterns-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agile%20%26%20Scrum-16A34A?style=for-the-badge"/>
+<a href="https://github.com/mshahnawaz1202/Product-Inventory-Management-System">Inventory Management</a> &nbsp;·&nbsp;
+<a href="https://github.com/mshahnawaz1202/Banking-System">Banking System</a> &nbsp;·&nbsp;
+<a href="https://github.com/mshahnawaz1202/Spotify-Clone-Backend">Spotify Clone Backend</a> &nbsp;·&nbsp;
+<a href="https://github.com/mshahnawaz1202/Smart-City-Diagnostic-Engine">Smart City Diagnostic Engine</a> &nbsp;·&nbsp;
+<a href="https://github.com/mshahnawaz1202/Customer-Segmentation-Recommendation-Engine">Customer Segmentation Engine</a> &nbsp;·&nbsp;
+<a href="https://github.com/mshahnawaz1202/NYC-Congestion-Pricing-Audit">NYC Congestion Pricing Audit</a>
 </p>
 
+<br/>
 
-# 💻 Tech Stack
+## The Numbers
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mshahnawaz1202&show_icons=true&hide_border=true&bg_color=111418&title_color=e0a673&icon_color=c97b4a&text_color=9ba3ab&border_color=c97b4a&include_all_commits=true&count_private=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahnawaz1202&layout=compact&hide_border=true&bg_color=111418&title_color=e0a673&text_color=9ba3ab&border_color=c97b4a&langs_count=8" />
 
-### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<br/><br/>
 
+<img width="100%" src="assets/rain.svg" alt="rain falling on the commit grid" />
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+</div>
 
-### ☁️ Cloud & Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+<br/>
 
-### 🤖 AI, Data Science & Analytics
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+## Reach Me
 
-### 🧪 Testing & QA
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<div align="center">
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<a href="mailto:shahnawaz.swz1202@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111418?style=for-the-badge&logo=gmail&logoColor=e0a673&labelColor=111418" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-shah-nawaz-se">
+  <img src="https://img.shields.io/badge/LINKEDIN-111418?style=for-the-badge&logo=linkedin&logoColor=e0a673&labelColor=111418" />
+</a>
+<a href="https://github.com/mshahnawaz1202">
+  <img src="https://img.shields.io/badge/GITHUB-111418?style=for-the-badge&logo=github&logoColor=e0a673&labelColor=111418" />
+</a>
+<a href="https://shahnawaz-se.pages.dev">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111418?style=for-the-badge&logo=firefox&logoColor=e0a673&labelColor=111418" />
+</a>
 
-### 📱 Desktop & Networking
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+</div>
 
-## 📊 GitHub Stats
+<br/>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=mshahnawaz1202&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=mshahnawaz1202&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mshahnawaz1202&theme=radical&layout=compact&langs_count=10&hide=jupyter%20notebook"
-    alt="Most Used Languages"
-  />
-</p>
+<img width="100%" src="assets/fireworks.svg" alt="fireworks over the city" />
 
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/mshahnawaz1202">
-    <img
-      src="https://ghchart.rshah.org/7C3AED/mshahnawaz1202"
-      alt="GitHub Contribution Calendar"
-      width="100%"
-    />
-  </a>
-</p>
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mshahnawaz1202&label=Profile%20Views&color=0e75b6"/>
-</p>
-
-
-
-
-
+</div>
