@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/cover.svg?v=dracula" alt="Muhammad Shah Nawaz" />
+<img width="100%" src="assets/cover.svg" alt="Muhammad Shah Nawaz" />
 
 </div>
 
@@ -26,7 +26,7 @@ My main focus is Full Stack Development and Backend Engineering: MERN, Django, R
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="assets/terminal.svg?v=dracula" alt="terminal" />
+<img width="100%" src="assets/terminal.svg" alt="terminal" />
 
 </td>
 </tr>
@@ -35,7 +35,7 @@ My main focus is Full Stack Development and Backend Engineering: MERN, Django, R
 <br/>
 
 <div align="center">
-<img width="100%" src="assets/stack.svg?v=dracula" alt="tech stack" />
+<img width="100%" src="assets/stack.svg" alt="tech stack" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ My main focus is Full Stack Development and Backend Engineering: MERN, Django, R
 
 <div align="center">
 
-<img width="100%" src="assets/projects.svg?v=dracula" alt="project cards" />
+<img width="100%" src="assets/projects.svg" alt="project cards" />
 
 </div>
 
