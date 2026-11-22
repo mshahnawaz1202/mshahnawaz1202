@@ -85,7 +85,7 @@
     <circle cx="26" cy="18" r="5" fill="#ff5555"/>
     <circle cx="44" cy="18" r="5" fill="#f1fa8c"/>
     <circle cx="62" cy="18" r="5" fill="#50fa7b"/>
-    <text x="230" y="23" font-size="12" fill="#bd93f9" font-weight="600" text-anchor="middle">shahnawaz@chiniot: ~/dev</text>
+    <text x="230" y="23" font-size="12" fill="#bd93f9" font-weight="600" text-anchor="middle">shahnawaz@dev: ~/dev</text>
     <rect x="0" y="0" width="460" height="2" fill="url(#tline)"/>
     <g font-size="13">
       <g clip-path="url(#l0)">
@@ -117,7 +117,7 @@
           <tspan fill="#50fa7b">status</tspan></text>
       </g>
       <g clip-path="url(#l8)">
-        <text x="34" y="288" fill="#ff79c6">always shipping something</text>
+        <text x="34" y="288" fill="#ff79c6">Make it work, make it right, make it fast.</text>
       </g>
     </g>
     <rect width="8" height="16" fill="#ff79c6" filter="url(#tglow)">
